@@ -16,7 +16,7 @@ Cramly is your last-minute revision companion! Capture, type, or record study ma
 
 | Add Subjects | Create Revision Notes | Swipe to Revise |  
 |--------------|----------------|-----------------------|  
-| ![Add Subjects](screenshot1.png) | ![Create Revision Notes](screenshot2.png) | ![Swipe to Revise](screenshot3.png) |  
+| ![Add Subjects](screenshots/screenshot3.jpeg) | ![Create Revision Notes](screenshots/screenshot2.jpeg) | ![Swipe to Revise](screenshots/screenshot1.jpeg) |  
 
 ---
 
